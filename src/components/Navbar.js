@@ -7,7 +7,7 @@ const Navbar = () => {
           <h2 className="primary-color">Doctor Request App</h2>
           <div>
            <Link to="/">Home</Link>
-           <Link to="#" className="ml-3">New Request</Link>
+           <Link to="/add" className="ml-3">New Request</Link>
           </div>
         </nav>
      );

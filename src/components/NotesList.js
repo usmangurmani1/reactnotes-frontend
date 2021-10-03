@@ -32,7 +32,7 @@ useEffect(() => {
                       </Link>
                       
                   </div>
-              )) :<div>No notes available</div>
+              )) :<div>No request available</div>
           }
           </div>
       </div>
